@@ -1,0 +1,2 @@
+plugin={"com.cucumber.listener.ExtentCucumberFormatter:Reports/report.html",
+"pretty", "html:target/cucumber-reports"}
